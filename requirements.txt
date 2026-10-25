@@ -1,6 +1,8 @@
-langchain
-langgraph
-python-dotenv
-langchain-groq
-langchain-openai
-streamlit
+  langchain
+  langchain-groq
+  langchain-community
+  langchain-tavily
+  wikipedia
+  arxiv==2.1.3
+  python-dotenv
+  ipykernel
